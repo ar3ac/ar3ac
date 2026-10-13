@@ -13,6 +13,15 @@ A mobile-first WebApp (PWA) written in Python/FastAPI to execute bash commands o
 - Real-time terminal output via WebSockets.
 - Universal installer for Linux environments (`systemd` + `.venv`).
 
+### [C4rds](https://github.com/ar3ac/c4rds)
+*Offline loyalty cards & barcode wallet for Android.*
+A native, ultra-fast, and 100% offline-first Android application to manage your loyalty cards and barcodes with complete privacy.
+- 100% Open-source barcode & QR scanner (CameraX + ZXing Core).
+- Privacy-first & offline-first: no accounts, no cloud sync of cards, no trackers.
+- Modern Material 3 UI with glassmorphic accents & official brand icons.
+- Automatic temporary peak screen brightness for retail self-checkouts.
+- Android 15 16 KB page size support & automated GitHub Releases.
+
 ---
 *More projects will be highlighted here as they are published.*
 
