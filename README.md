@@ -1,7 +1,7 @@
 # Luca Marrazzo (@ar3ac)
 
 **Digital Craftsman & Software Builder**  
-📍 Lecco, Italy · Open to Remote (Italy / EU / Worldwide)
+📍 Lecco, Italy · Open to Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Marrazzo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucamarrazzo/)
 [![Email](https://img.shields.io/badge/Email-luca.marrazzo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luca.marrazzo@gmail.com)
@@ -11,17 +11,6 @@
 
 I turn daily friction into practical, lightweight, and offline-first tools.  
 Passionate about Linux systems, Python automation, and privacy-focused local architecture: I build reliable, end-to-end software designed for real-world utility, zero bloat, and digital autonomy.
-
----
-
-## 🛠️ Core Capabilities & Tech Stack
-
-| Domain | Technologies & Practical Experience |
-| :--- | :--- |
-| **Linux & Systems** | Linux administration, Bash automation, `systemd` service management, self-hosting & homelab architectures |
-| **Backend & Scripting** | Python 3, FastAPI, WebSockets, REST APIs, daemon scripting, lightweight service architecture |
-| **Mobile Engineering** | Modern Android (Kotlin, Jetpack Compose, Material 3), CameraX, ZXing Core, Room DB, offline-first design |
-| **DevOps & Tooling** | Git, GitHub Actions (automated CI/CD pipelines & release builds), Fastlane, F-Droid packaging compliance |
 
 ---
 
@@ -39,12 +28,8 @@ Passionate about Linux systems, Python automation, and privacy-focused local arc
 
 ---
 
-## 💼 Open to Opportunities
+## 💼 Connect & Opportunities
 
-I am open to **remote roles, technical collaborations, and consulting**:
-- **Linux Systems & Automation Engineering**
-- **Python / Backend Development**
-- **Android Mobile Development (Kotlin / Compose)**
-- **Pragmatic Tool & Internal Utility Development**
+Open to interesting opportunities, challenges, and collaborations in the IT & Tech space.
 
 📫 **Get in touch:** [LinkedIn Profile](https://www.linkedin.com/in/lucamarrazzo/) · [luca.marrazzo@gmail.com](mailto:luca.marrazzo@gmail.com)
