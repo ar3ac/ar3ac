@@ -1,7 +1,9 @@
 # Luca Marrazzo (@ar3ac)
 
-I am a developer focused on automation, scripting, and self-hosting. 
-I build lightweight, practical tools to solve real-world problems and streamline daily digital workflows.
+**Digital Craftsman & Tinkerer**
+
+I turn daily digital friction into practical, lightweight, and offline-first tools.
+Passionate about self-hosting, personal automation, and privacy: I prefer simple, no-nonsense software designed for utility, clean architecture, and digital autonomy.
 
 ## Featured Projects
 
