@@ -1,32 +1,50 @@
 # Luca Marrazzo (@ar3ac)
 
-**Digital Craftsman & Tinkerer**
+**Digital Craftsman & Software Builder**  
+📍 Lecco, Italy · Open to Remote (Italy / EU / Worldwide)
 
-I turn daily digital friction into practical, lightweight, and offline-first tools.
-Passionate about self-hosting, personal automation, and privacy: I prefer simple, no-nonsense software designed for utility, clean architecture, and digital autonomy.
-
-## Featured Projects
-
-### [Lucius](https://github.com/ar3ac/lucius)
-*Your personal gadget quartermaster.*
-A mobile-first WebApp (PWA) written in Python/FastAPI to execute bash commands on a Raspberry Pi or Linux server with a single tap.
-- Zero complex configuration (no YAML, no Docker).
-- Responsive web interface with Dark Mode support.
-- Real-time terminal output via WebSockets.
-- Universal installer for Linux environments (`systemd` + `.venv`).
-
-### [C4rds](https://github.com/ar3ac/c4rds)
-*Offline loyalty cards & barcode wallet for Android.*
-A native, ultra-fast, and 100% offline-first Android application to manage your loyalty cards and barcodes with complete privacy.
-- 100% Open-source barcode & QR scanner (CameraX + ZXing Core).
-- Privacy-first & offline-first: no accounts, no cloud sync of cards, no trackers.
-- Modern Material 3 UI with glassmorphic accents & official brand icons.
-- Automatic temporary peak screen brightness for retail self-checkouts.
-- Android 15 16 KB page size support & automated GitHub Releases.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Marrazzo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucamarrazzo/)
+[![Email](https://img.shields.io/badge/Email-luca.marrazzo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luca.marrazzo@gmail.com)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29abe0?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/ar3ac)
 
 ---
-*More projects will be highlighted here as they are published.*
 
-## Contact & Support
-- **Support my work:** [Ko-fi](https://ko-fi.com/ar3ac)
-- **GitHub:** [@ar3ac](https://github.com/ar3ac)
+I turn daily friction into practical, lightweight, and offline-first tools.  
+Passionate about Linux systems, Python automation, and privacy-focused local architecture: I build reliable, end-to-end software designed for real-world utility, zero bloat, and digital autonomy.
+
+---
+
+## 🛠️ Core Capabilities & Tech Stack
+
+| Domain | Technologies & Practical Experience |
+| :--- | :--- |
+| **Linux & Systems** | Linux administration, Bash automation, `systemd` service management, self-hosting & homelab architectures |
+| **Backend & Scripting** | Python 3, FastAPI, WebSockets, REST APIs, daemon scripting, lightweight service architecture |
+| **Mobile Engineering** | Modern Android (Kotlin, Jetpack Compose, Material 3), CameraX, ZXing Core, Room DB, offline-first design |
+| **DevOps & Tooling** | Git, GitHub Actions (automated CI/CD pipelines & release builds), Fastlane, F-Droid packaging compliance |
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 [C4rds](https://github.com/ar3ac/c4rds)
+*Native, offline-first loyalty cards & barcode wallet for Android.*
+- **Tech Stack:** Kotlin · Jetpack Compose · Material 3 · Room Database · CameraX · ZXing Core
+- **Engineering Highlights:** 100% open-source, zero tracking/no accounts, high-resolution barcode rendering, Android 15 16 KB page size support, automated CI/CD release pipeline, submitted to F-Droid.
+
+### ⚡ [Lucius](https://github.com/ar3ac/lucius)
+*Personal gadget quartermaster for Linux servers and Raspberry Pi.*
+- **Tech Stack:** Python · FastAPI · WebSockets · Mobile PWA · Systemd
+- **Engineering Highlights:** 1-tap remote bash execution, real-time terminal streaming via WebSockets, zero YAML/Docker complexity, universal installer for Linux environments (`systemd` + `.venv`).
+
+---
+
+## 💼 Open to Opportunities
+
+I am open to **remote roles, technical collaborations, and consulting**:
+- **Linux Systems & Automation Engineering**
+- **Python / Backend Development**
+- **Android Mobile Development (Kotlin / Compose)**
+- **Pragmatic Tool & Internal Utility Development**
+
+📫 **Get in touch:** [LinkedIn Profile](https://www.linkedin.com/in/lucamarrazzo/) · [luca.marrazzo@gmail.com](mailto:luca.marrazzo@gmail.com)
