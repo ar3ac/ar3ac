@@ -3,10 +3,6 @@
 **Digital Craftsman & Software Builder**  
 📍 Lecco, Italy · Open to Remote
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Marrazzo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucamarrazzo/)
-[![Email](https://img.shields.io/badge/Email-luca.marrazzo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luca.marrazzo@gmail.com)
-[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29abe0?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/ar3ac)
-
 ---
 
 I turn daily friction into practical, lightweight, and offline-first tools.  
@@ -32,4 +28,6 @@ Passionate about Linux systems, Python automation, and privacy-focused local arc
 
 Open to interesting opportunities, challenges, and collaborations in the IT & Tech space.
 
-📫 **Get in touch:** [LinkedIn Profile](https://www.linkedin.com/in/lucamarrazzo/) · [luca.marrazzo@gmail.com](mailto:luca.marrazzo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20Marrazzo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucamarrazzo/)
+[![Email](https://img.shields.io/badge/Email-luca.marrazzo%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luca.marrazzo@gmail.com)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29abe0?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/ar3ac)
