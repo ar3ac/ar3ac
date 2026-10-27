@@ -22,6 +22,11 @@ Passionate about Linux systems, Python automation, and privacy-focused local arc
 - **Tech Stack:** Python · FastAPI · WebSockets · Mobile PWA · Systemd
 - **Engineering Highlights:** 1-tap remote bash execution, real-time terminal streaming via WebSockets, zero YAML/Docker complexity, universal installer for Linux environments (`systemd` + `.venv`).
 
+### 📅 [Bri3fing](https://github.com/ar3ac/bri3fing)
+*Stealth agenda desklet & event manager for Cinnamon Desktop (Linux Mint).*
+- **Tech Stack:** JavaScript (GJS) · Cinnamon Desklet API · Python (GObject) · Evolution Data Server (EDS) · GNOME Online Accounts
+- **Engineering Highlights:** Zero-config Google Calendar sync via native OS accounts (no API keys/tokens), Chronus-style timeline agenda, 1-click video meeting launcher (Meet/Zoom/Teams), in-place two-way event editing/creation, offline-first local cache, native i18n (`en`/`it`).
+
 ---
 
 ## 💼 Connect & Opportunities
